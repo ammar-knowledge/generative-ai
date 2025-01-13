@@ -12,9 +12,11 @@
 /generative-ai/embeddings/use-cases/outlier-detection       @rarsan @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/gemini                                       @polong-lin @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/gemini/evaluation                            @jsondai @inardini @GoogleCloudPlatform/generative-ai-devrel
+/generative-ai/gemini/code-execution                        @koverholt @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/gemini/function-calling                      @koverholt @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/gemini/getting-started                       @gericdong @polong-lin @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/gemini/grounding                             @holtskinner @GoogleCloudPlatform/generative-ai-devrel
+/generative-ai/gemini/rag-engine                            @edtsoi430 @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/gemini/reasoning-engine                      @koverholt @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/gemini/reasoning-engine/tutorial_alloydb_rag_agent.ipynb @averikitsch
 /generative-ai/gemini/reasoning-engine/tutorial_cloud_sql_pg_rag_agent.ipynb @averikitsch
@@ -45,6 +47,7 @@
 /generative-ai/speech/use-cases/storytelling                @holtskinner @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/vision/use-cases                             @iamthuya @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/vision/getting-started                       @iamthuya @GoogleCloudPlatform/generative-ai-devrel
+/generative-ai/vision/use-cases/advertisement-creation-using-gemini-and-imagen3    @ankuljain09 @koyelguha
 /generative-ai/gemini/use-cases/intro_multimodal_use_cases.ipynb        @saeedaghabozorgi @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/gemini/sample-apps/genwealth/                @paulramsey @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/gemini/sample-apps/finance-advisor-spanner/  @anirbanbagchi1979 @GoogleCloudPlatform/generative-ai-devrel
@@ -77,3 +80,4 @@
 /generative-ai/gemini/sample-apps/e2e-gen-ai-app-starter-pack       @eliasecchig @lspatarog @mariagpuyol @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/vision/use-cases/hey_llm                     @tushuhei @GoogleCloudPlatform/generative-ai-devrel
 /generative-ai/gemini/sample-apps/llamaindex-rag/backend/indexing/ @Lionel-Lim @GoogleCloudPlatform/generative-ai-devrel
+/generative-ai/gemini/multimodal-live-api/websocket-demo-app/ @ZackAkil @GoogleCloudPlatform/generative-ai-devrel
